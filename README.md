@@ -3,7 +3,6 @@
 개발자를 꿈꾸는 사람들을 위한 코딩 커뮤니티 플랫폼입니다.  
 코딩 문제를 직접 풀고, 경험치를 쌓아 티어를 올리며, 다른 개발자들과 소통할 수 있는 공간을 제공합니다.
 
-![코딩 커뮤니티 메인 화면](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f3cd104-fd74-4f74-ab19-dc126270fc23/ecb31a88-46f8-42e5-a935-645199b75579/4b76d4cf-d0d9-4ba6-8845-f06035705b81.png)
 
 ---
 
@@ -23,11 +22,7 @@
 
 ---
 
-## 🏗️ 시스템 구조도
 
-![시스템 구조도](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f3cd104-fd74-4f74-ab19-dc126270fc23/dd95d039-1af9-4191-bc35-1ed2f8943638/Untitled.png)
-
----
 
 ## 🛠️ 개발 환경
 
@@ -41,11 +36,7 @@
 
 ---
 
-## 📊 ERD
 
-![ERD](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f3cd104-fd74-4f74-ab19-dc126270fc23/60da9566-6236-4839-86a5-12353b0bacd1/Untitled.png)
-
----
 
 ## 🧩 담당 기능
 
